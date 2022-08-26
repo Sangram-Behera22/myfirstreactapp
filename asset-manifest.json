@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myfirstreactapp/static/css/main.c290be64.css",
+    "main.js": "/myfirstreactapp/static/js/main.aa4ec21f.js",
+    "static/js/496.d89aebc1.chunk.js": "/myfirstreactapp/static/js/496.d89aebc1.chunk.js",
+    "static/media/img2.jpg": "/myfirstreactapp/static/media/img2.208d66c0825e48f5d67a.jpg",
+    "static/media/f3.jpg": "/myfirstreactapp/static/media/f3.265f20f63e3470b7f4a2.jpg",
+    "static/media/img1.jpg": "/myfirstreactapp/static/media/img1.10239dca4635873bc10a.jpg",
+    "static/media/f4.jpg": "/myfirstreactapp/static/media/f4.1ed80271650e70cb3c9a.jpg",
+    "static/media/f5.jpg": "/myfirstreactapp/static/media/f5.2941ac706fddc151335e.jpg",
+    "static/media/f2.jpg": "/myfirstreactapp/static/media/f2.1259ce9304a27a31f3d7.jpg",
+    "static/media/f1.jpg": "/myfirstreactapp/static/media/f1.7a95ef55273d486c3a9a.jpg",
+    "static/media/f6.jpg": "/myfirstreactapp/static/media/f6.0f671aa25782dc2fc7b5.jpg",
+    "index.html": "/myfirstreactapp/index.html",
+    "main.c290be64.css.map": "/myfirstreactapp/static/css/main.c290be64.css.map",
+    "main.aa4ec21f.js.map": "/myfirstreactapp/static/js/main.aa4ec21f.js.map",
+    "496.d89aebc1.chunk.js.map": "/myfirstreactapp/static/js/496.d89aebc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c290be64.css",
+    "static/js/main.aa4ec21f.js"
+  ]
+}
